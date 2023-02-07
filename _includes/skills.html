@@ -9,18 +9,22 @@
     </span>
     {{ skills.title }}
   </h2>
+  
+  {% for toolset in experiences.toolsets %}
+  <div class="item">
 
-  <div class="skillset">
+    <div class="meta">
 
-    {% for skill in skills.toolset %}
-    <div class="item">
+      <div class="upper-row">
+        <h3 class="toolset-title">{{ toolset.title }}</h3>
+    {% if toolset.details %}
+    <div class="details">
+      {{ toolset.details | markdownify }}
+    </div><!--//details-->
+    {% endif %}
 
-      <h3 class="level-title">{{ skill.name }}</h3>
-
-    </div><!--//item-->
-    {% endfor %}
-
-  </div>
+  </div><!--//item-->
+  {% endfor %}
 
 </section><!--//skills-section-->
 {% endif %}
