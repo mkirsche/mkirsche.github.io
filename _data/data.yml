@@ -139,20 +139,20 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Jasmine and Iris: population-scale structural variant comparison and analysis 
+        link: "https://doi.org/10.1038/s41592-022-01753-3"
+        authors: Kirsche, M., Prabhu, G., Sherman, RM., Ni, B., Aganezov, S., Schatz, MC.
+        conference: Nature Methods 2023
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: A complete reference genome improves analysis of human genetic variation
+        link: "https://doi.org/10.1126/science.abl3533"
+        authors: Aganezov, S.*, Yan, S.*, Soto, D.*, Kirsche, M.*, Zarate, S.* et al. (*co-first authors)
+        conference: Science 2022
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Sapling: Accelerating Suffix Array Queries with Learned Data Models
+        link: "https://doi.org/10.1093/bioinformatics/btaa911"
+        authors: Kirsche, M., Das, A., Schatz, MC.
+        conference: Bioinformatics 2021
 
 skills:
     title: Skills &amp; Proficiency
