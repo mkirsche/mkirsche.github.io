@@ -156,7 +156,7 @@ skills:
 
     toolsets:
       - title: Programming Languages
-      details:
+        details: |
         - Python & Django
         - Javascript & jQuery
         - Angular
