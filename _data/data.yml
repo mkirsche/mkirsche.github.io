@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -25,29 +25,17 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: # http://www.africau.edu/images/default/sample.pdf
 
-    languages:
-      title:
-      info:
-        - idiom:
-          level:
+    #interests:
+    #  title:
+    #  info:
+    #    - item:
+    #      link:
 
-        - idiom:
-          level:
+    #    - item:
+    #      link:
 
-        - idiom:
-          level:
-
-    interests:
-      title:
-      info:
-        - item:
-          link:
-
-        - item:
-          link:
-
-        - item:
-          link:
+    #    - item:
+    #      link:
 
 career-profile:
     title: Career Profile
@@ -60,33 +48,22 @@ education:
       - degree: Ph.D. in Computer Science
         university: Johns Hopkins University
         time: May 2022
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+
       - degree: M.S. in Computer Science
         university: Johns Hopkins University
         time: May 2019
-        details:
         
       - degree: M.S. in Computer Science
         university: University of Central Florida
         time: August 2016
-        details:
         
       - degree: B.S. in Computer Science
         university: University of Central Florida
         time: May 2015
-        details:
         
       - degree: B.S. in Mathematics
         university: University of Central Florida
         time: May 2015
-        details:
         
 experiences:
     title: Experiences
