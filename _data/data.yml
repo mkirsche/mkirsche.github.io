@@ -136,17 +136,17 @@ publications:
     title: Publications
 
     papers:
-      - title: Jasmine and Iris: population-scale structural variant comparison and analysis 
+      - title: "Jasmine and Iris: population-scale structural variant comparison and analysis"
         link: "https://doi.org/10.1038/s41592-022-01753-3"
         authors: Kirsche, M., Prabhu, G., Sherman, RM., Ni, B., Aganezov, S., Schatz, MC.
         conference: Nature Methods 2023
 
-      - title: A complete reference genome improves analysis of human genetic variation
+      - title: "A complete reference genome improves analysis of human genetic variation"
         link: "https://doi.org/10.1126/science.abl3533"
         authors: Aganezov, S.*, Yan, S.*, Soto, D.*, Kirsche, M.*, Zarate, S.* et al. (*co-first authors)
         conference: Science 2022
 
-      - title: Sapling: Accelerating Suffix Array Queries with Learned Data Models
+      - title: "Sapling: Accelerating Suffix Array Queries with Learned Data Models"
         link: "https://doi.org/10.1093/bioinformatics/btaa911"
         authors: Kirsche, M., Das, A., Schatz, MC.
         conference: Bioinformatics 2021
