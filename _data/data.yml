@@ -157,12 +157,30 @@ skills:
     toolsets:
       - title: Programming Languages
         details: |
-            - Python & Django
-            - Javascript & jQuery
-            - Angular
-            - HTML5 & CSS
-            - Ruby on Rails
-            - Sketch & Photoshop
+            - Java
+            - Python
+            - R
+            - Bash
+            - MySQL
+            - C++
+            - C
+      - title: Bioinformatics
+        details: |
+            - Variant discovery (Samtools, freebayes, GATK, Sniffles, Jasmine, etc.)
+            - Read alignment (BWA, Bowtie, NGMLR, minimap2, winnowmap, etc.)
+            - Quality control (FastQC, mosdepth, Picard, VerifyBamID, MultiQC, etc.)
+            - Genome assembly (Canu, Flye, Hifiasm, GenomeScope, etc.)
+            - Functional genomics (STAR, Cell Ranger, bedtools, etc.)
+      - title: Other
+        details: |
+            - Git/Github
+            - Linux command line scripting 
+            - Pipelining (NextFlow, Snakemake)
+            - AWS (Batch, EC2, SageMaker)
+            - High Performance Computing with Slurm
+            - Scientific writing and presentation (Google Docs, Inkscape, etc.)
+
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
