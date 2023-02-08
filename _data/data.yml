@@ -174,20 +174,20 @@ publications:
         authors: Aganezov, S., Goodwin, S., Sherman, RM., Sedlazeck, F., Arun, G., Bhatia, S., Lee, I., <u>Kirsche, M.</u>, Wappel, R., Kramer, M., Kostroff, K., Spector, D., Timp, W., McCombie, WR., Schatz, MC.
         conference: Genome Research 2020
         
-      - title: "Paragraph: a graph-based structural variant genotyper for short-read sequence data "
+      - title: "Genomic diversity of SARS-CoV-2 during early introduction into the Baltimore–Washington metropolitan area"
         link: "https://doi.org/10.1172/jci.insight.144350"
         authors: Thielen, P. et al.
         conference: JCI Insight 2021
         
-      - title: "Paragraph: a graph-based structural variant genotyper for short-read sequence data "
+      - title: "A diploid assembly-based benchmark for variants in the major histocompatibility complex"
         link: "https://doi.org/10.1038/s41467-020-18564-9"
         authors: Chin, C. et al.
-        Nature Communications 2020
+        conference: Nature Communications 2020
         
       - title: "Multi-tissue integrative analysis of personal epigenomes"
         link: "https://doi.org/10.1101/2021.04.26.441442"
         authors: Rozowsky, J. et al.
-        bioRxiv 2021 (preprint; journal version under review)
+        conference: bioRxiv 2021 (preprint; journal version under review)
 
 skills:
     title: Skills
