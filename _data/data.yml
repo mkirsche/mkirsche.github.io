@@ -80,7 +80,7 @@ experiences:
         time: 2017 - 2022
         company: Schatz Lab, Johns Hopkins University, Baltimore, MD
         details: |
-            Research areas:
+            &nbsp;&nbsp;&nbsp;&nbsp;Research areas:
             - Algorithms for structural variant processing at population scale
             - Improved genome assembly and its impact on SV calling
             - Data structures to accelerate genomic read alignment
@@ -122,18 +122,53 @@ publications:
     papers:
       - title: "Jasmine and Iris: population-scale structural variant comparison and analysis"
         link: "https://doi.org/10.1038/s41592-022-01753-3"
-        authors: Kirsche, M., Prabhu, G., Sherman, RM., Ni, B., Aganezov, S., Schatz, MC.
+        authors: <u>Kirsche, M.</u>, Prabhu, G., Sherman, RM., Ni, B., Aganezov, S., Schatz, MC.
         conference: Nature Methods 2023
 
       - title: "A complete reference genome improves analysis of human genetic variation"
         link: "https://doi.org/10.1126/science.abl3533"
-        authors: Aganezov, S.*, Yan, S.*, Soto, D.*, Kirsche, M.*, Zarate, S.* et al. (*co-first authors)
+        authors: Aganezov, S.*, Yan, S.*, Soto, D.*, <u>Kirsche, M.*</u>, Zarate, S.* et al. (*co-first authors)
         conference: Science 2022
 
       - title: "Sapling: Accelerating Suffix Array Queries with Learned Data Models"
         link: "https://doi.org/10.1093/bioinformatics/btaa911"
-        authors: Kirsche, M., Das, A., Schatz, MC.
+        authors: <u>Kirsche, M.</u>, Das, A., Schatz, MC.
         conference: Bioinformatics 2021
+        
+      - title: "Democratizing long-read genome assembly "
+        link: "https://doi.org/10.1016/j.cels.2021.09.010"
+        authors: <u>Kirsche, M.</u> and Schatz, MC
+        conference: Cell Systems 2021
+        
+      - title: "The complete sequence of a human genome"
+        link: "https://doi.org/10.1126/science.abj6987"
+        authors: Nurk, S. et al.
+        conference: Science 2022
+        
+      - title: "Semi-automated assembly of high-quality diploid human reference genomes"
+        link: "https://doi.org/10.1038/s41586-022-05325-5"
+        authors: Jarvis, ED. et al.
+        conference: Nature 2022
+        
+      - title: "Automated assembly scaffolding using RagTag elevates a new tomato system for high-throughput genome editing"
+        link: "https://doi.org/10.1186/s13059-022-02823-7"
+        authors: Alonge, M., Lebeigle, L., <u>Kirsche, M.</u>, Aganezov, S., Wang, X., Lippman, Z., Schatz, MC., Soyk, S.
+        conference: Genome Biology 2022
+        
+      - title: "Benchmarking challenging small variants with linked and long reads"
+        link: "https://doi.org/10.1016/j.xgen.2022.100128"
+        authors: Wagner, J. et al.
+        conference: Cell Genomics 2022
+        
+      - title: "Major Impacts of Widespread Structural Variation on Gene Expression and Crop Improvement in Tomato "
+        link: "https://doi.org/10.1016/j.cell.2020.05.021"
+        authors: Alonge, M. et al.
+        conference: Cell 2020
+        
+      - title: "Paragraph: a graph-based structural variant genotyper for short-read sequence data "
+        link: "https://doi.org/10.1186/s13059-019-1909-7"
+        authors: Chen, S., Krusche, P., Dolzhenko, E., Sherman, RM., Petrovski, R., Schlesinger, F., <u>Kirsche, M.</u>, Bentley, D., Schatz, MC., Sedlazeck, F., Eberle, M.
+        conference: Genome Biology 2019
 
 skills:
     title: Skills &amp; Proficiency
