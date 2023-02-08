@@ -38,7 +38,7 @@ sidebar:
     #      link:
 
 career-profile:
-    title: Career Profile
+    title: Introduction
     summary: |
       This page is currently a work in progress.
 education:
@@ -65,7 +65,7 @@ education:
         time: May 2015
         
 experiences:
-    title: Experiences
+    title: Experience
     info:
       - role: Bioinformatics Scientist
         time: June 2022 - Present
@@ -171,7 +171,7 @@ publications:
         conference: Genome Biology 2019
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills
 
     toolsets:
       - title: Programming Languages
@@ -202,4 +202,4 @@ skills:
 
 
 footer: >
-    Adapted from template designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Layout adapted from template designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
