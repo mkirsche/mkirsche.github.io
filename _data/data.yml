@@ -40,8 +40,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      This is a placeholder and will be updated with accurate information soon
-      Second paragraph if required.
+      This page is currently a work in progress.
 education:
     title: Education
     info:
@@ -75,8 +74,7 @@ experiences:
             - Design and implement pipelines consisting of state-of-the-art bioinformatics methods using NextFlow, Python, and R for large-scale analysis through AWS Batch
             - Analyze whole-genome and whole-exome sequencing from diverse human populations, including variant calling, imputation, and quality control
             - Integrate computational pipeline inputs and outputs with MySQL databases
-            - Automate pipeline testing, quality control, and genetic findings reporting, and communicate these results to other scientists
-            - Work with other bioinformatics, population geneticists, and statistical geneticists to pipeline analyses and rapidly process incoming datasets
+            - Automate pipeline testing, quality control, and genetic data analysis, and communicate findings to other scientists 
 
       - role: Research Assistant (Ph.D. Student)
         time: 2017 - 2022
