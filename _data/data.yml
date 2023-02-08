@@ -74,16 +74,47 @@ experiences:
             - Design and implement pipelines consisting of state-of-the-art bioinformatics methods using NextFlow, Python, and R for large-scale analysis through AWS Batch
             - Analyze whole-genome and whole-exome sequencing from diverse human populations, including variant calling, imputation, and quality control
             - Integrate computational pipeline inputs and outputs with MySQL databases
-            - Automate pipeline testing, quality control, and genetic data analysis, and communicate findings to other scientists 
+            - Automate pipeline testing, quality control, and genetic analysis of pipeline outputs, and communicate findings to other scientists 
 
       - role: Research Assistant (Ph.D. Student)
         time: 2017 - 2022
-        company: Michael Schatz Lab, Johns Hopkins University, Baltimore, MD
+        company: Schatz Lab, Johns Hopkins University, Baltimore, MD
         details: |
             Research areas:
             - Algorithms for structural variant processing at population scale
             - Improved genome assembly and its impact on SV calling
             - Data structures to accelerate genomic read alignment
+            
+      - role: Computational Genomics Intern
+        time: Summer 2019
+        company: 10x Genomics, Pleasanton, CA
+        details: |
+            - Implemented Louvain clustering algorithm and integrated it into the CellRanger single-cell RNA pipeline
+            - Implemented a Rust API for the STAR RNA read aligner and used it to improve CellRanger’s efficiency
+            
+      - role: Software Engineering Intern
+        time: Summer 2016
+        company: Microsoft, Bellevue, WA
+        details: |
+            - Implemented algorithm for landmark recognition in Bing Images
+      
+      - role: Software Engineering Intern
+        time: Summer 2015
+        company: Google, London, UK
+        details: |
+            - Automated quantifying and categorizing of bandwidth usage in the Google Search Android application
+            
+      - role: Software Engineering Intern
+        time: Summer 2014
+        company: Google, Mountain View, CA
+        details: |
+            - Designed and implemented an object tracking computer vision algorithm to analyze cell state trajectories in longitudinal microscopy data
+            
+      - role: Software Engineering Intern
+        time: Summer 2013
+        company: Google, Cambridge, MA
+        details: |
+            - Implemented an iOS lab device remote control proxy client/server for running automated application tests
 
 publications:
     title: Publications
