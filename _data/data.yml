@@ -72,9 +72,8 @@ experiences:
         company: Variant Bio, Seattle, WA
         details: |
             - Design and implement pipelines consisting of state-of-the-art bioinformatics methods using NextFlow, Python, and R for large-scale analysis through AWS Batch
-            - Analyze whole-genome and whole-exome sequencing from diverse human populations, including variant calling, imputation, and quality control
+            - Analyze whole-genome and whole-exome sequencing from diverse human populations, including variant calling, imputation, genotyping, quality control, and visualization
             - Integrate computational pipeline inputs and outputs with MySQL databases
-            - Automate pipeline testing, quality control, and genetic analysis of pipeline outputs, and communicate findings to other scientists 
 
       - role: Research Assistant (Ph.D. Student)
         time: 2017 - 2022
@@ -135,7 +134,7 @@ publications:
         authors: <u>Kirsche, M.</u>, Das, A., Schatz, MC.
         conference: Bioinformatics 2021
         
-      - title: "Democratizing long-read genome assembly "
+      - title: "Democratizing long-read genome assembly"
         link: "https://doi.org/10.1016/j.cels.2021.09.010"
         authors: <u>Kirsche, M.</u> and Schatz, MC
         conference: Cell Systems 2021
@@ -160,15 +159,35 @@ publications:
         authors: Wagner, J. et al.
         conference: Cell Genomics 2022
         
-      - title: "Major Impacts of Widespread Structural Variation on Gene Expression and Crop Improvement in Tomato "
+      - title: "Major Impacts of Widespread Structural Variation on Gene Expression and Crop Improvement in Tomato"
         link: "https://doi.org/10.1016/j.cell.2020.05.021"
         authors: Alonge, M. et al.
         conference: Cell 2020
         
-      - title: "Paragraph: a graph-based structural variant genotyper for short-read sequence data "
+      - title: "Paragraph: a graph-based structural variant genotyper for short-read sequence data"
         link: "https://doi.org/10.1186/s13059-019-1909-7"
         authors: Chen, S., Krusche, P., Dolzhenko, E., Sherman, RM., Petrovski, R., Schlesinger, F., <u>Kirsche, M.</u>, Bentley, D., Schatz, MC., Sedlazeck, F., Eberle, M.
         conference: Genome Biology 2019
+        
+      - title: "Comprehensive analysis of structural variants in breast cancer genomes using single molecule sequencing"
+        link: "https://doi.org/10.1101/gr.260497.119"
+        authors: Aganezov, S., Goodwin, S., Sherman, RM., Sedlazeck, F., Arun, G., Bhatia, S., Lee, I., <u>Kirsche, M.</u>, Wappel, R., Kramer, M., Kostroff, K., Spector, D., Timp, W., McCombie, WR., Schatz, MC.
+        conference: Genome Research 2020
+        
+      - title: "Paragraph: a graph-based structural variant genotyper for short-read sequence data "
+        link: "https://doi.org/10.1172/jci.insight.144350"
+        authors: Thielen, P. et al.
+        conference: JCI Insight 2021
+        
+      - title: "Paragraph: a graph-based structural variant genotyper for short-read sequence data "
+        link: "https://doi.org/10.1038/s41467-020-18564-9"
+        authors: Chin, C. et al.
+        Nature Communications 2020
+        
+      - title: "Multi-tissue integrative analysis of personal epigenomes"
+        link: "https://doi.org/10.1101/2021.04.26.441442"
+        authors: Rozowsky, J. et al.
+        bioRxiv 2021 (preprint; journal version under review)
 
 skills:
     title: Skills
