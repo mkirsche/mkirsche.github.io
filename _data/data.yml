@@ -41,9 +41,9 @@ career-profile:
     title: Introduction
     summary: |
       This page is currently a work in progress.
-      - [Experience]("#experience")
-      - [Publications]("#publications")
-      - [Skills]("#skills")
+      - [Experience](#experience)
+      - [Publications](#publications)
+      - [Skills](#skills)
 education:
     title: Education
     info:
