@@ -83,9 +83,9 @@ experiences:
         company: Schatz Lab, Johns Hopkins University, Baltimore, MD
         details: |
             &nbsp;&nbsp;&nbsp;&nbsp;Research areas:
-            - Algorithms for structural variant processing at population scale
-            - Improved genome assembly and its impact on SV calling
-            - Data structures to accelerate genomic read alignment
+            - Designed <a href="https://www.nature.com/articles/s41592-022-01753-3">algorithms and data structures</a> for population-scale genomic structural variant data, and released <a href="https://github.com/mkirsche/Jasmine">software</a> around them
+            - Contributed to the <a href="https://www.nature.com/articles/s41592-022-01753-3">first complete human genome assembly</a> and <a href="https://www.science.org/doi/10.1126/science.abl3533">assessed its impact on variant calling</a>
+            - Designed <a href="https://academic.oup.com/bioinformatics/article/37/6/744/5941464">data structures</a> to accelerate genomic read alignment
             
       - role: Computational Genomics Intern
         time: Summer 2019
