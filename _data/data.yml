@@ -74,7 +74,7 @@ experiences:
         time: June 2022 - Present
         company: Variant Bio, Seattle, WA
         details: |
-            - Design and implement pipelines consisting of state-of-the-art bioinformatics methods using NextFlow, Python, and R for large-scale analysis through AWS Batch
+            - Design and implement state-of-the-art bioinformatics pipelines using NextFlow, Python, and R for large-scale analysis through AWS Batch
             - Analyze whole-genome and whole-exome sequencing from diverse human populations, including variant calling, imputation, genotyping, quality control, and visualization
             - Integrate computational pipeline inputs and outputs with MySQL databases
 
@@ -188,9 +188,9 @@ publications:
         conference: Nature Communications 2020
         
       - title: "The EN-TEx resource of multi-tissue personal epigenomes & variant-impact models"
-        link: "https://doi.org/10.1101/2021.04.26.441442"
+        link: "https://doi.org/10.1016/j.cell.2023.02.018"
         authors: Rozowsky, J. et al.
-        conference: bioRxiv 2022 (preprint; journal version under review)
+        conference: Cell 2023
 
 skills:
     title: Skills
@@ -205,6 +205,7 @@ skills:
             - MySQL
             - C++
             - C
+            - Rust
       - title: Bioinformatics
         details: |
             - Variant discovery (Samtools, freebayes, GATK, Sniffles, Jasmine, etc.)
@@ -214,13 +215,17 @@ skills:
             - Functional genomics (STAR, Cell Ranger, bedtools, etc.)
       - title: Other
         details: |
-            - Git/Github
-            - Linux command line scripting 
-            - Pipelining (NextFlow, Snakemake)
-            - AWS (Batch, EC2, SageMaker)
-            - High Performance Computing with Slurm
+            - AWS (Batch, EC2, SageMaker, ECR)
+            - Docker
+            - Slurm
             - Scientific writing and presentation (Google Docs, Inkscape, etc.)
-
+            - Agile project management (Jira, Confluence, Google Sheets, Asana, etc.)
+            - Git/Github
+            - Linux command line 
+            - Pipelining (NextFlow, Snakemake)
+      - title: Certificates
+        details: |
+            - <a href="https://www.credly.com/badges/5b2e2873-8e99-4d3a-8a58-f5e23a160ac6">Google Project Management Certificate</a> (Coursera, April 2023)
 
 
 footer: >
