@@ -69,13 +69,21 @@ education:
 experiences:
     title: Experience
     info:
+      - role: Principal Bioinformatics Scientist
+        time: June 2023 - Present
+        company: Roche Diagnostics, Remote
+        details: |
+            - Applying state-of-the-art machine learning techniques to improve genetic variant calling from high-error genome sequencing datasets
+            - Developing NextFlow pipelines for Google Cloud to measure and report variant calling accuracy across a range of genomics contexts and leading cross-team experiments to evaluate the impact of sequencing technology changes on bioinformatics findings
+            - Developed a graph-based algorithm to cluster and phase assembled genomic sequences into haplotypes
+
       - role: Bioinformatics Scientist
-        time: June 2022 - Present
+        time: June 2022 - June 2023
         company: Variant Bio, Seattle, WA
         details: |
-            - Design and implement state-of-the-art bioinformatics pipelines using NextFlow, Python, and R for large-scale analysis through AWS Batch
-            - Analyze whole-genome and whole-exome sequencing from diverse human populations, including variant calling, imputation, genotyping, quality control, and visualization
-            - Integrate computational pipeline inputs and outputs with MySQL databases
+            - Designed and implemented state-of-the-art bioinformatics pipelines using NextFlow, Python, and R for large-scale analysis through AWS Batch
+            - Analyzed whole-genome and whole-exome sequencing from diverse human populations, including variant calling, imputation, genotyping, quality control, and visualization
+            - Integrated pipeline results with MySQL databases and helped develop database schemas
 
       - role: Research Assistant (Ph.D. Student)
         time: 2017 - 2022
@@ -212,11 +220,20 @@ skills:
             - Quality control (FastQC, mosdepth, Picard, VerifyBamID, MultiQC, etc.)
             - Genome assembly (Canu, Flye, Hifiasm, GenomeScope, etc.)
             - Functional genomics (STAR, Cell Ranger, bedtools, etc.)
+      - title: Machine Learning
+        details: |
+            - Random forests
+            - Gradient boosting
+            - CNNs
+            - Tensorflow
+            scikit-learn
       - title: Other
         details: |
             - AWS (Batch, EC2, SageMaker, ECR)
             - Docker
             - Slurm
+            - Mathematics and statistics
+            - Algorithms and data structures
             - Scientific writing and presentation (Google Docs, Inkscape, etc.)
             - Agile project management (Jira, Confluence, Google Sheets, Asana, etc.)
             - Git/Github
